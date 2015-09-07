@@ -1,0 +1,5 @@
+X=C(1:25)
+Y=X
+#SUMA DE X E Y
+X+Y
+
